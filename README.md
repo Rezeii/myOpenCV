@@ -1,0 +1,2 @@
+# myOpenCV
+OpenCV learning... :)
